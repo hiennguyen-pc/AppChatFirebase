@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "875078975050",
+    "project_id": "datachatfinal",
+    "storage_bucket": "datachatfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875078975050:android:4a0a0c089219362bf1f0b3",
+        "android_client_info": {
+          "package_name": "com.example.chatfirebase_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875078975050-d9r162g6ef2urh7hbbapsd8sjpq4mdf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatfirebase_final",
+            "certificate_hash": "04025b3d09957a139d3deb7daef3ad8ad06301e1"
+          }
+        },
+        {
+          "client_id": "875078975050-384nn5hbr1c6c1vmm8srvef24s46i60d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBesna4cFmWTz_ya68LAzf7iLA5mGYeLzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875078975050-384nn5hbr1c6c1vmm8srvef24s46i60d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
